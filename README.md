@@ -18,12 +18,6 @@ This project addresses the strategic imperative for consolidation. By analyzing 
 
 ---
 
-## 📺 Live Dashboard
-
-🔗 [Explore Interactive Power BI Dashboard](https://lnkd.in/gVTmKpnh)
-
----
-
 ## ✨ Overview
 
 This project delivers a comprehensive data-driven analysis of the strategic merger between **LioCinema 🇮🇳** and **Jotstar 🌟**, two prominent Over-The-Top (OTT) streaming platforms in India. 🚀
